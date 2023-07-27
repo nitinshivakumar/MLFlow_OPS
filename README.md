@@ -1,1 +1,6 @@
 ## MLFlow Project
+
+MLFLOW_TRACKING_URI=https://dagshub.com/snitin128/MLFlow_OPS.mlflow \
+MLFLOW_TRACKING_USERNAME=snitin128 \
+MLFLOW_TRACKING_PASSWORD=692c55f750225658725210498219de05af91e3c1 \
+python script.py
